@@ -1,3 +1,3 @@
 Git is a version control system
-Git is free softwarie
+Git is free softwarie distributed under the GPL.
 Git is a distributed version control system.
